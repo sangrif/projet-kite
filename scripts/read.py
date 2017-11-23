@@ -18,5 +18,7 @@ X = np.array(X)
 N=X.shape[0]
 M=X.shape[1]
 
+#commentaire
+
 
 
